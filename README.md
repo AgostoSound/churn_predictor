@@ -1,2 +1,3 @@
 # churn_predictor
-Churn prediction &amp; revenue impact simulator
+
+An app/notebook that predicts the probability of a customer churning and simulates the economic impact of that churn on the business.
